@@ -48,8 +48,12 @@ vulnerable.py: D (38/100), 3 проблем
 | **Веб-платформа + командная работа** | ❌ | ✅ |
 | **VS Code расширение** | ❌ | ✅ |
 
-→ https://nexus-security.io/enterprise
+→ https://github.com/oenty123/nexus-security
 
 ## Лицензия
 
 Apache License 2.0 — свободное использование с патентной защитой.
+
+## Контакты
+
+Связь, вопросы, поддержка: Telegram [@Oenty_888](https://t.me/Oenty_888)
